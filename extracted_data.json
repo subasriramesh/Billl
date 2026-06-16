@@ -1,0 +1,38 @@
+{
+    "bill_no": "IN-15",
+    "date": "01/23/2025",
+    "items": [
+        {
+            "name": "Orange Powder",
+            "price": 400.0,
+            "quantity": 1
+        },
+        {
+            "name": "Walnuts 5% Tax Item",
+            "price": 100.0,
+            "quantity": 1
+        },
+        {
+            "name": "Coin 3% Tax Item",
+            "price": 100.0,
+            "quantity": 1
+        },
+        {
+            "name": "Rose Water",
+            "price": 150.0,
+            "quantity": 1
+        },
+        {
+            "name": "Glicerene",
+            "price": 50.0,
+            "quantity": 1
+        },
+        {
+            "name": "Cheese 12% Tax Item",
+            "price": 100.0,
+            "quantity": 1
+        }
+    ],
+    "tax_amount": "No tax is filled",
+    "total_amount": 900.0
+}
